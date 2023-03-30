@@ -1,1 +1,1 @@
-# KlebsGenomes3
+This repo contains genome asssemblies from the paper "Genomic analysis of diversity, population structure, virulence, and antimicrobial resistance in Klebsiella pneumoniae, an urgent threat to public health" [(Holt et al, 2015 PNAS)](https://doi.org/10.1073/pnas.1501049112).
